@@ -1,7 +1,7 @@
-# Order
-Order Module for Laravel Freelance
+# Laravel Freelance Order Module
+The Laravel freelane Order Module is a module that offer upwork like features.
 
-An order laravel module has the following features:
+The Laravel freelance order module has the following features:
 + Order Listing Post
 + Order Proposal Submission.
 + Order Proposal Submission
